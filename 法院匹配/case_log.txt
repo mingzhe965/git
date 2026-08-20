@@ -1,0 +1,13 @@
+[
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'潜江甲商贸有限公司'},{'code':'bgsfzdz','value':'湖北省省直辖县级行政区划潜江市园林街道章华中路72号'}]}}]}"},
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'仙桃乙工贸有限公司'},{'code':'bgsfzdz','value':'仙桃市纺织大道8号3幢201室'}]}}]}"},
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'天门丙实业有限公司'},{'code':'bgsfzdz','value':'天门市文学泉路71号二单元502'}]}}]}"},
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'琼海丁贸易公司'},{'code':'bgsfzdz','value':'海南省琼海市嘉积镇银海路12号'}]}}]}"},
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'文昌戊科技公司'},{'code':'bgsfzdz','value':'海南省文昌市文城镇和平路45号'}]}}]}"},
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'重庆己有限公司'},{'code':'bgsfzdz','value':'重庆市江北区海尔路179号11幢20‑4'}]}}]}"},
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'北京庚集团'},{'code':'bgsfzdz','value':'北京市通州区东关上园175号'}]}}]}"},
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'上海辛公司'},{'code':'bgsfzdz','value':'上海市浦东新区张江路99号'}]}}]}"},
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'天津壬企业'},{'code':'bgsfzdz','value':'天津市南开区卫津路100号'}]}}]}"},
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'万宁癸有限公司'},{'code':'bgsfzdz','value':'海南省万宁市万城镇红专路23号'}]}}]}"},
+{"line":"2026-08-20 info callback body: {'caseList':[{'defendant':{'detailList':[{'code':'bgmc','value':'东方A公司'},{'code':'bgsfzdz','value':'海南省东方市八所镇解放东路66号'}]}}]}"}
+]
